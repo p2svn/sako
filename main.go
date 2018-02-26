@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gorilla/mux"
-	"github.com/olahol/melody"
-	"github.com/onodera-punpun/sako/monero"
+	"https://github.com/gorilla/mux"
+	"https://github.com/olahol/melody"
+	"https://github.com/onodera-punpun/sako/monero"
 )
 
 var wallet *monero.Wallet
