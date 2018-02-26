@@ -4,7 +4,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/BurntSushi/toml"
+	"https://github.com/BurntSushi/toml"
 )
 
 var config Config
