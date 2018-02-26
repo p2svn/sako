@@ -7,8 +7,8 @@ import (
 
 	"image/color"
 
-	"github.com/olahol/melody"
-	"github.com/onodera-punpun/sako/monero"
+	"https://github.com/olahol/melody"
+	"https://github.com/onodera-punpun/sako/monero"
 	qrcode "github.com/skip2/go-qrcode"
 )
 
