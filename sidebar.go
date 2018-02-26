@@ -9,7 +9,7 @@ import (
 
 	"https://github.com/olahol/melody"
 	"https://github.com/onodera-punpun/sako/monero"
-	qrcode "github.com/skip2/go-qrcode"
+	qrcode "https://github.com/skip2/go-qrcode"
 )
 
 // Sidebar is a stuct with all the values needed in the sidebar templates.
