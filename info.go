@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/olahol/melody"
-	rss "github.com/ungerik/go-rss"
+	"https://github.com/olahol/melody"
+	rss "https://github.com/ungerik/go-rss"
 )
 
 func info(w http.ResponseWriter, r *http.Request) {
