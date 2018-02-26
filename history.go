@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/olahol/melody"
-	"github.com/onodera-punpun/sako/monero"
+	"https://github.com/olahol/melody"
+	"https://github.com/onodera-punpun/sako/monero"
 )
 
 func history(w http.ResponseWriter, r *http.Request) {
